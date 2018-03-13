@@ -5,9 +5,10 @@ Franz插件集
 ![](http://7xk03v.com1.z0.glb.clouddn.com/tokendataTue%20Mar%2013%202018Screenshot%20from%202018-03-13%2015-39-49.png)
 
 #### 列表
-- 老虎财经
-- 知识星球
-- 墨加口袋
+- [老虎财经](https://web.itiger.com/)
+- [知识星球](http://xiaomiquan.com)
+- [墨加口袋](https://mjkoudai.com)
+- [管有方](http://www.guanplus.com/)
 
 ....
 
