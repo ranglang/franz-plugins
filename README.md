@@ -2,27 +2,36 @@
 
 Franz插件集
 
-![](http://7xk03v.com1.z0.glb.clouddn.com/tokendataTue Mar 13 2018Screenshot from 2018-03-13 15-39-49.png)
-
+![](http://7xk03v.com1.z0.glb.clouddn.com/tokendataTue%20Mar%2013%202018Screenshot%20from%202018-03-13%2015-39-49.png)
 
 #### 列表
 - 老虎财经
 - 知识星球
 - 墨加口袋
+
 ....
 
 
-#### Step
+
+使用方法
+
+1. 下载
+
+   ​	
+
+[下载文件架](https://codeload.github.com/ranglang/franz-plugins/zip/master)
 
 ```
-git clone ...
+git clone git@github.com:ranglang/franz-plugins.git
 ```
 
+2. 一键安装
 
 ```
 sh ./install.sh
+
 ```
 
-重启Franz
+3. 重启Franz
 
-注意Franz点击关闭也在运行，你可能手动结束进程
+注意Franz默认点击关闭后在后台运行，你可能需要手动结束进程
