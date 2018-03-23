@@ -1,0 +1,13 @@
+{
+  "id": "ftchinese",
+  "name": "ftchinese",
+  "version": "1.0.0",
+  "description": "ftchinese",
+  "main": "index.js",
+  "author": "17number",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www.ftchinese.com/",
+    "hasTeamID": false
+  }
+}
